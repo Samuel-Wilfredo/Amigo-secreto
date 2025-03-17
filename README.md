@@ -21,7 +21,7 @@ Si el usuario intenta ingresar un nombre vacio o repetido, se muestra una alerta
 El sistema selecciona de manera aleatoria un nombre de la lista y lo muestra en la pantalla.
 Despues de 4 segundo, la lista y los resultados del sorteo se reiniciciaran automaticamente.
 ```
-##TECNOLOGIAS UTILIZADAS
+## TECNOLOGIAS UTILIZADAS
 - ***HTML:*** Para la estrutura de la aplicación.
 - ***CSS:*** Para el diseño y estilo de la interfaz.
 - ***JavaScript:*** Para la logica de programación y la manipulación del DOM.
