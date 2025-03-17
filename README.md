@@ -13,14 +13,13 @@ Este es un pequeño proyecto en JavaScript que permite a los usuarios agregar no
  - Despues de hacer el sorteo se reinicia la lista de amigos dentro de 4 segundo.
 
 ## COMPORTAMIENTO DE LA APP
-```
-El usuario ingresa los nombres en el campo de entrada y presiona el botón "Añadir".
-Los nombres se almacenan en una lista y se muestra en la pantalla.
-Si el usuario intenta ingresar un nombre vacio o repetido, se muestra una alerta indicando el error.
- Una vez ingresado los nombres, el usuario puede hacer clic en el botón  "Sortear".
-El sistema selecciona de manera aleatoria un nombre de la lista y lo muestra en la pantalla.
-Despues de 4 segundo, la lista y los resultados del sorteo se reiniciciaran automaticamente.
-```
+1. El usuario ingresa los nombres en el campo de entrada y presiona el botón "Añadir".
+2. Los nombres se almacenan en una lista y se muestra en la pantalla.
+3. Si el usuario intenta ingresar un nombre vacio o repetido, se muestra una alerta indicando el error.
+4. Una vez ingresado los nombres, el usuario puede hacer clic en el botón  "Sortear".
+5. El sistema selecciona de manera aleatoria un nombre de la lista y lo muestra en la pantalla.
+6. Despues de 4 segundo, la lista y los resultados del sorteo se reiniciciaran automaticamente.
+
 ## TECNOLOGIAS UTILIZADAS
 - ***HTML:*** Para la estrutura de la aplicación.
 - ***CSS:*** Para el diseño y estilo de la interfaz.
